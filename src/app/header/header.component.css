@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.nav-link{
+    color: gold;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+h1{
+    color: gold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.d-block{
+    height: 50px;
+    width: 50px;
+}
